@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Portfolio
 
 A beginner-friendly portfolio website for practising Git and GitHub workflows.
@@ -32,3 +33,7 @@ Your file should include:
 - One benefit of using branches
 
 **Important:** Replace placeholders with appropriate information. Do not publish passwords, access tokens, API keys, home addresses, or other sensitive information.
+=======
+# Student-portfolio
+My student portfolio website for Git and GitHub practical assessment.
+>>>>>>> origin/main
