@@ -1,10 +1,10 @@
 # Education
 
-## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+## Master of Computer Applications (MCA)
+- **Branch:** Master of Computer Applications
+- **Institution:** Aditya University
+- **Study period:** 2025–2027
+- **CGPA / Percentage:** 9.4
 
 ## Relevant Coursework
 - Programming Fundamentals
@@ -16,3 +16,4 @@
 ## Achievements and Certifications
 - Add verified certifications, hackathons, awards, or academic achievements.
 - Include the year and issuing organisation where relevant.
+-Fullstack development Internship Certificate by Inevosys Private Limited
